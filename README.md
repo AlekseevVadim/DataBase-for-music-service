@@ -1,6 +1,5 @@
-DataBase-for-music-service
+# DataBase-for-music-service
 
-База данных (БД) yutu_music
+## База данных (БД) yutu_music
 
-Краткое описание
 Структура базы данных создана с помощью MySQL на основе анализа сервиса для прослушивания музыки "YouTube Music": https://music.youtube.com/ и описывает предполагаемую модель хранения используемых им данных.
